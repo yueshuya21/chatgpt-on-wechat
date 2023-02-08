@@ -1,5 +1,5 @@
-{
-  "open_ai_api_key": "YOUR API KEY",
+{config-template.json
+  "open_ai_api_key": "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",
   "single_chat_prefix": ["bot", "@bot"],
   "single_chat_reply_prefix": "[bot] ",
   "group_chat_prefix": ["@bot"],
